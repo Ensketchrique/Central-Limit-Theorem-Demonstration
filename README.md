@@ -1,2 +1,2 @@
 # Central-Limit-Theorem-Demonstration
-This project demonstrates the Central Limit Theorem (CLT) through dice roll and coin flip simulations. As sample sizes grow, the distributions of sums approach a normal shape. Using Python and Seaborn, it visually showcases how CLT works, offering a clear, practical grasp of this key statistical concept.
+Welcome to the Central Limit Theorem (CLT) Demonstration repository! This project illustrates the concept of the Central Limit Theorem through two hands-on experiments using Dice Rolls and Coin Flips. The project is designed to visually explain the CLT, its importance in statistics, and its applications in data science.
