@@ -1,11 +1,11 @@
-<b> 1. Dice Roll Simulation 🎲 </b>
+** 1. Dice Roll Simulation 🎲 **
 This experiment involves:
 
 Rolling 10 dice per trial and calculating the sum of their outcomes.
 Running trials with sample sizes from 100 to 10,000 rolls.
 Plotting the distribution of the sums, revealing how the shape of the histogram approaches a normal distribution with more trials.
 
-<b> 2. Coin Flip Simulation 🪙 </b> 
+** 2. Coin Flip Simulation 🪙 **
 In this experiment:
 
 Each trial consists of 100 coin flips where each flip outcome is either +1 (heads) or -1 (tails).
