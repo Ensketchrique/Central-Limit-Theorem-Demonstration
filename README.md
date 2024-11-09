@@ -1,2 +1,8 @@
-# Central-Limit-Theorem-Demonstration
-Welcome to the Central Limit Theorem (CLT) Demonstration repository! This project illustrates the concept of the Central Limit Theorem through two hands-on experiments using Dice Rolls and Coin Flips. The project is designed to visually explain the CLT, its importance in statistics, and its applications in data science.
+# Project Overview
+The Central Limit Theorem states that, given a sufficiently large sample size, the sampling distribution of the mean of a random variable will approach a normal distribution, regardless of the original data's distribution. This is a cornerstone in statistics, providing a basis for making inferences about population parameters.
+
+In this repository, we will:
+
+Simulate Dice Rolls - Observe how sums of dice rolls form a normal distribution.
+Simulate Coin Flips - See how binary outcomes can also yield a normal distribution for aggregated results.
+These examples highlight the essence of the CLT and its practical application in understanding data behavior in various fields.
